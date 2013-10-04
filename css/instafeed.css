@@ -1,0 +1,23 @@
+.mt10 {
+
+		border-radius: 25px;
+		background-color: white;
+		font-family: Courier, monospace;
+		margin-top: 20px;
+		margin-bottom: 40px;
+		margin-right: 40px;
+
+	}
+
+body
+	{
+	background-color:#78CFBA;
+	}
+
+h1{
+	font-family: Courier, monospace;
+}
+
+.mt20 {
+	border-radius: 25px;
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="170.08" viewWidth="226.77" ai:appVersion="16.0.0.682" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group blendMode="normal" d:layerType="page" d:pageHeight="170.08" d:pageWidth="226.77" d:type="layer" d:userLabel="Artboard 1">
+    <Group d:type="layer" d:userLabel="Layer 1">
+      <Ellipse x="40.7729" y="72.6736" width="17.9097" height="17.9097" ai:seqID="1">
+        <stroke>
+          <SolidColorStroke weight="0.5" caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Ellipse>
+      <Ellipse x="47.2856" y="79.186" width="4.88477" height="4.88477" ai:seqID="2">
+        <stroke>
+          <SolidColorStroke weight="0.5" caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Ellipse>
+      <Path x="45.4541" y="73.0577" winding="nonZero" ai:seqID="3" data="M0 0.430122C3.36182 -0.258354 6.94092 -0.299858 9.76953 1.66157 12.8027 3.76508 13.6436 6.53999 14.8066 9.83735 16.2163 13.831 17.8784 14.9638 21.9795 15.6943 25.8125 16.3759 29.5098 16.1005 33.3765 16.1005 36.7783 16.1015 40.1182 16.5078 43.5527
+ 16.5078 46.2759 16.5078 124.757 16.8779 132.285 16.5107">
+        <stroke>
+          <SolidColorStroke weight="0.5" caps="none" joints="miter" miterLimit="10"/>
+        </stroke>
+      </Path>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

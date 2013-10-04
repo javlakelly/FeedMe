@@ -1,0 +1,37 @@
+	.mt10 {
+		background-color: white;
+		font-family: Courier, monospace;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		margin-right: 40px;
+	}
+	.mt20 {
+		margin-left: 200px;
+	}
+
+	.b-shadow {
+		margin-top: 10px;
+	}
+
+	.mt30 {
+		margin-top: 40px;
+		margin-left: 50px;
+	}
+
+	.mt40 {
+		margin-top: 50px;
+		margin-bottom: 30px;
+	}
+	.container.mt40 .btn-primary {
+
+		background: #78CFBA;
+		border-color: #78CFBA;
+	}
+	.icon-file-text {
+		color: black;
+	}
+	
+	
+
+
+
